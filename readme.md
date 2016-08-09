@@ -17,7 +17,9 @@ This Eagle library contains stuff I have used in my designs and is in the public
 | KEYSTONE-629 | PCB Mount Battery Contact for 1 (AA), 1 (AAA), 1 (N), Coil Spring Contact |
 | KEYSTONE-637 | PCB Mount Battery Contact for 1 (AA), 1 (AAA), 1 (N), Button Contact |
 | LDR | Symbol and footprint for 0.1" through hole light dependent resistor |
+| LP2989 | National Semiconductor LP2989 LDO 3.3V 0.5A, SO-8 |
 | MCP1700 | Microchip Low Quiescent Current LDO MCP1700 |
+| MCP1825T-3302E/DC | Low Dropout Regulator, 3.3V, 500MA, SOT-223-5 |
 | MCP7952X | Microchip MCP7952X, 3V SPI Real-Time Clock Calendar with Battery Switchover |
 | MICRO USB TH VERTICAL | Vertical micro USB through hole connector. A low cost vertical micro USB connector from [eBay](http://www.ebay.com/itm/181392933768) (MINI USB Female 5Pin 180°DIP). |
 | MICRO USBTH | Micro USB through hole connector. A low cost micro USB connector from [eBay](http://www.ebay.com/itm/171309997171) |
